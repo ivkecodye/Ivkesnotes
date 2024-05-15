@@ -1,0 +1,11 @@
+Install:
+ - create env > python3 -m venv env
+ - activate > source env/bin/activate
+
+ django-admin startproject backend
+ cd backend
+ python manage.py startapp api
+
+superjuzer : ivkejeadmin
+
+pass: Gdzcd49$65^%#576
