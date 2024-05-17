@@ -6,6 +6,3 @@ Install:
  cd backend
  python manage.py startapp api
 
-superjuzer : ivkejeadmin
-
-pass: Gdzcd49$65^%#576
